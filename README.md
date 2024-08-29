@@ -8,3 +8,7 @@ Download Instructions: <br>
 - Unzip and open folder in your preferred Java IDE
 - Run the file called "run_connectFour.java"
 - Follow Prompts
+  <br> <br>
+![image](https://github.com/user-attachments/assets/34e45772-811f-46e0-8db1-f1454a805b29)
+<br>
+![image](https://github.com/user-attachments/assets/1ea0044c-9e5a-4097-a9a5-bd808da12911)
